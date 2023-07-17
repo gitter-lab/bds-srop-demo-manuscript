@@ -8,13 +8,13 @@ keywords:
 lang: en-US
 date-meta: '2023-07-17'
 author-meta:
+- Sarah Bennett
 - Jaren Bresnick
 - Anthony Gitter
-- Yunju Ha
-- Eric Zhou
-- Sarah Bennett
 - Olivia Johnson
 - Marley Joseph
+- Eric Zhou
+- Yunju Ha
 header-includes: |
   <!--
   Manubot generated metadata rendered from header-includes-template.html.
@@ -29,34 +29,34 @@ header-includes: |
   <meta name="dc.date" content="2023-07-17" />
   <meta name="citation_publication_date" content="2023-07-17" />
   <meta property="article:published_time" content="2023-07-17" />
-  <meta name="dc.modified" content="2023-07-17T18:58:04+00:00" />
-  <meta property="article:modified_time" content="2023-07-17T18:58:04+00:00" />
+  <meta name="dc.modified" content="2023-07-17T19:37:36+00:00" />
+  <meta property="article:modified_time" content="2023-07-17T19:37:36+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
   <meta name="dc.publisher" content="Manubot" />
   <meta name="citation_journal_title" content="Manubot" />
   <meta name="citation_technical_report_institution" content="Manubot" />
+  <meta name="citation_author" content="Sarah Bennett" />
   <meta name="citation_author" content="Jaren Bresnick" />
   <meta name="citation_author" content="Anthony Gitter" />
   <meta name="citation_author_institution" content="Department of Biostatistics and Medical Informatics, University of Wisconsin-Madison, Madison, Wisconsin, USA" />
   <meta name="citation_author_institution" content="Morgridge Institute for Research, Madison, Wisconsin, USA" />
   <meta name="citation_author_orcid" content="0000-0002-5324-9833" />
   <meta name="twitter:creator" content="@anthonygitter" />
-  <meta name="citation_author" content="Yunju Ha" />
-  <meta name="citation_author" content="Eric Zhou" />
-  <meta name="citation_author" content="Sarah Bennett" />
   <meta name="citation_author" content="Olivia Johnson" />
   <meta name="citation_author" content="Marley Joseph" />
+  <meta name="citation_author" content="Eric Zhou" />
+  <meta name="citation_author" content="Yunju Ha" />
   <link rel="canonical" href="https://gitter-lab.github.io/bds-srop-demo-manuscript/" />
   <meta property="og:url" content="https://gitter-lab.github.io/bds-srop-demo-manuscript/" />
   <meta property="twitter:url" content="https://gitter-lab.github.io/bds-srop-demo-manuscript/" />
   <meta name="citation_fulltext_html_url" content="https://gitter-lab.github.io/bds-srop-demo-manuscript/" />
   <meta name="citation_pdf_url" content="https://gitter-lab.github.io/bds-srop-demo-manuscript/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://gitter-lab.github.io/bds-srop-demo-manuscript/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://gitter-lab.github.io/bds-srop-demo-manuscript/v/9ac0dc5fb9a787532a25a8b1d428f1daaaf482c8/" />
-  <meta name="manubot_html_url_versioned" content="https://gitter-lab.github.io/bds-srop-demo-manuscript/v/9ac0dc5fb9a787532a25a8b1d428f1daaaf482c8/" />
-  <meta name="manubot_pdf_url_versioned" content="https://gitter-lab.github.io/bds-srop-demo-manuscript/v/9ac0dc5fb9a787532a25a8b1d428f1daaaf482c8/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://gitter-lab.github.io/bds-srop-demo-manuscript/v/b755e11482a3d232603a98a3290ee0fa621b5ee3/" />
+  <meta name="manubot_html_url_versioned" content="https://gitter-lab.github.io/bds-srop-demo-manuscript/v/b755e11482a3d232603a98a3290ee0fa621b5ee3/" />
+  <meta name="manubot_pdf_url_versioned" content="https://gitter-lab.github.io/bds-srop-demo-manuscript/v/b755e11482a3d232603a98a3290ee0fa621b5ee3/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -78,9 +78,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://gitter-lab.github.io/bds-srop-demo-manuscript/v/9ac0dc5fb9a787532a25a8b1d428f1daaaf482c8/))
+([permalink](https://gitter-lab.github.io/bds-srop-demo-manuscript/v/b755e11482a3d232603a98a3290ee0fa621b5ee3/))
 was automatically generated
-from [gitter-lab/bds-srop-demo-manuscript@9ac0dc5](https://github.com/gitter-lab/bds-srop-demo-manuscript/tree/9ac0dc5fb9a787532a25a8b1d428f1daaaf482c8)
+from [gitter-lab/bds-srop-demo-manuscript@b755e11](https://github.com/gitter-lab/bds-srop-demo-manuscript/tree/b755e11482a3d232603a98a3290ee0fa621b5ee3)
 on July 17, 2023.
 </em></small>
 
@@ -89,6 +89,11 @@ on July 17, 2023.
 ## Authors
 
 
+
++ **Sarah Bennett**
+  <br>
+  <small>
+  </small>
 
 + **Jaren Bresnick**
   <br>
@@ -108,7 +113,12 @@ on July 17, 2023.
      Department of Biostatistics and Medical Informatics, University of Wisconsin-Madison, Madison, Wisconsin, USA; Morgridge Institute for Research, Madison, Wisconsin, USA
   </small>
 
-+ **Yunju Ha**
++ **Olivia Johnson**
+  <br>
+  <small>
+  </small>
+
++ **Marley Joseph**
   <br>
   <small>
   </small>
@@ -118,17 +128,7 @@ on July 17, 2023.
   <small>
   </small>
 
-+ **Sarah Bennett**
-  <br>
-  <small>
-  </small>
-
-+ **Olivia Johnson**
-  <br>
-  <small>
-  </small>
-
-+ **Marley Joseph**
++ **Yunju Ha**
   <br>
   <small>
   </small>
