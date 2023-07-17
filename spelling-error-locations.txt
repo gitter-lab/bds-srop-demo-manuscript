@@ -56,5 +56,7 @@ content/30.example-formatting.md:41:proident
 content/30.example-formatting.md:41:qui
 content/30.example-formatting.md:41:sint
 content/30.example-formatting.md:41:sunt
-content/30.example-formatting.md:231:Pandoc's
-content/30.example-formatting.md:241:Pandoc's
+content/30.example-formatting.md:106:arxiv
+content/30.example-formatting.md:106:arXiv
+content/30.example-formatting.md:233:Pandoc's
+content/30.example-formatting.md:243:Pandoc's

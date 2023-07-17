@@ -8,13 +8,13 @@ keywords:
 lang: en-US
 date-meta: '2023-07-17'
 author-meta:
-- Yunju Ha
 - Jaren Bresnick
+- Anthony Gitter
+- Yunju Ha
+- Eric Zhou
+- Sarah Bennett
 - Olivia Johnson
 - Marley Joseph
-- Eric Zhou
-- Anthony Gitter
-- Sarah Bennett
 header-includes: |
   <!--
   Manubot generated metadata rendered from header-includes-template.html.
@@ -29,34 +29,34 @@ header-includes: |
   <meta name="dc.date" content="2023-07-17" />
   <meta name="citation_publication_date" content="2023-07-17" />
   <meta property="article:published_time" content="2023-07-17" />
-  <meta name="dc.modified" content="2023-07-17T18:51:24+00:00" />
-  <meta property="article:modified_time" content="2023-07-17T18:51:24+00:00" />
+  <meta name="dc.modified" content="2023-07-17T18:58:04+00:00" />
+  <meta property="article:modified_time" content="2023-07-17T18:58:04+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
   <meta name="dc.publisher" content="Manubot" />
   <meta name="citation_journal_title" content="Manubot" />
   <meta name="citation_technical_report_institution" content="Manubot" />
-  <meta name="citation_author" content="Yunju Ha" />
   <meta name="citation_author" content="Jaren Bresnick" />
-  <meta name="citation_author" content="Olivia Johnson" />
-  <meta name="citation_author" content="Marley Joseph" />
-  <meta name="citation_author" content="Eric Zhou" />
   <meta name="citation_author" content="Anthony Gitter" />
   <meta name="citation_author_institution" content="Department of Biostatistics and Medical Informatics, University of Wisconsin-Madison, Madison, Wisconsin, USA" />
   <meta name="citation_author_institution" content="Morgridge Institute for Research, Madison, Wisconsin, USA" />
   <meta name="citation_author_orcid" content="0000-0002-5324-9833" />
   <meta name="twitter:creator" content="@anthonygitter" />
+  <meta name="citation_author" content="Yunju Ha" />
+  <meta name="citation_author" content="Eric Zhou" />
   <meta name="citation_author" content="Sarah Bennett" />
+  <meta name="citation_author" content="Olivia Johnson" />
+  <meta name="citation_author" content="Marley Joseph" />
   <link rel="canonical" href="https://gitter-lab.github.io/bds-srop-demo-manuscript/" />
   <meta property="og:url" content="https://gitter-lab.github.io/bds-srop-demo-manuscript/" />
   <meta property="twitter:url" content="https://gitter-lab.github.io/bds-srop-demo-manuscript/" />
   <meta name="citation_fulltext_html_url" content="https://gitter-lab.github.io/bds-srop-demo-manuscript/" />
   <meta name="citation_pdf_url" content="https://gitter-lab.github.io/bds-srop-demo-manuscript/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://gitter-lab.github.io/bds-srop-demo-manuscript/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://gitter-lab.github.io/bds-srop-demo-manuscript/v/8486f62e75e17d1ef815d13c41834b3e175f8062/" />
-  <meta name="manubot_html_url_versioned" content="https://gitter-lab.github.io/bds-srop-demo-manuscript/v/8486f62e75e17d1ef815d13c41834b3e175f8062/" />
-  <meta name="manubot_pdf_url_versioned" content="https://gitter-lab.github.io/bds-srop-demo-manuscript/v/8486f62e75e17d1ef815d13c41834b3e175f8062/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://gitter-lab.github.io/bds-srop-demo-manuscript/v/9ac0dc5fb9a787532a25a8b1d428f1daaaf482c8/" />
+  <meta name="manubot_html_url_versioned" content="https://gitter-lab.github.io/bds-srop-demo-manuscript/v/9ac0dc5fb9a787532a25a8b1d428f1daaaf482c8/" />
+  <meta name="manubot_pdf_url_versioned" content="https://gitter-lab.github.io/bds-srop-demo-manuscript/v/9ac0dc5fb9a787532a25a8b1d428f1daaaf482c8/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -78,9 +78,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://gitter-lab.github.io/bds-srop-demo-manuscript/v/8486f62e75e17d1ef815d13c41834b3e175f8062/))
+([permalink](https://gitter-lab.github.io/bds-srop-demo-manuscript/v/9ac0dc5fb9a787532a25a8b1d428f1daaaf482c8/))
 was automatically generated
-from [gitter-lab/bds-srop-demo-manuscript@8486f62](https://github.com/gitter-lab/bds-srop-demo-manuscript/tree/8486f62e75e17d1ef815d13c41834b3e175f8062)
+from [gitter-lab/bds-srop-demo-manuscript@9ac0dc5](https://github.com/gitter-lab/bds-srop-demo-manuscript/tree/9ac0dc5fb9a787532a25a8b1d428f1daaaf482c8)
 on July 17, 2023.
 </em></small>
 
@@ -90,27 +90,7 @@ on July 17, 2023.
 
 
 
-+ **Yunju Ha**
-  <br>
-  <small>
-  </small>
-
 + **Jaren Bresnick**
-  <br>
-  <small>
-  </small>
-
-+ **Olivia Johnson**
-  <br>
-  <small>
-  </small>
-
-+ **Marley Joseph**
-  <br>
-  <small>
-  </small>
-
-+ **Eric Zhou**
   <br>
   <small>
   </small>
@@ -128,7 +108,27 @@ on July 17, 2023.
      Department of Biostatistics and Medical Informatics, University of Wisconsin-Madison, Madison, Wisconsin, USA; Morgridge Institute for Research, Madison, Wisconsin, USA
   </small>
 
++ **Yunju Ha**
+  <br>
+  <small>
+  </small>
+
++ **Eric Zhou**
+  <br>
+  <small>
+  </small>
+
 + **Sarah Bennett**
+  <br>
+  <small>
+  </small>
+
++ **Olivia Johnson**
+  <br>
+  <small>
+  </small>
+
++ **Marley Joseph**
   <br>
   <small>
   </small>
@@ -270,7 +270,7 @@ Citation by DOI [@doi:10.7554/eLife.32822].
 
 Citation by PubMed Central ID [@pmc:PMC6103790].
 
-Citation by PubMed ID [@pubmed:30718888].
+Citation by PubMed ID [@pubmed:30257219].
 
 Citation by Wikidata ID [@wikidata:Q56458321].
 
@@ -278,10 +278,12 @@ Citation by ISBN [@isbn:9780262517638].
 
 Citation by URL [@{https://greenelab.github.io/meta-review/}].
 
+Citation by arXiv ID [@arxiv:1706.03762]
+
 Citation by alias [@deep-review].
 
 Multiple citations can be put inside the same set of brackets [@doi:10.7554/eLife.32822; @deep-review; @isbn:9780262517638].
-Manubot plugins provide easier, more convenient visualization of and navigation between citations [@doi:10.1371/journal.pcbi.1007128; @pubmed:30718888; @pmc:PMC6103790; @deep-review].
+Manubot plugins provide easier, more convenient visualization of and navigation between citations [@doi:10.1371/journal.pcbi.1007128; @pubmed:30257219; @pmc:PMC6103790; @deep-review].
 
 Citation tags (i.e. aliases) can be defined in their own paragraphs using Markdown's reference link syntax:
 
