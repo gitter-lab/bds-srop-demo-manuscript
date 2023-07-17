@@ -8,11 +8,11 @@ keywords:
 lang: en-US
 date-meta: '2023-07-17'
 author-meta:
-- Marley Joseph
-- Jaren Bresnick
 - Yunju Ha
-- Eric Zhou
+- Jaren Bresnick
 - Olivia Johnson
+- Marley Joseph
+- Eric Zhou
 - Anthony Gitter
 - Sarah Bennett
 header-includes: |
@@ -29,19 +29,19 @@ header-includes: |
   <meta name="dc.date" content="2023-07-17" />
   <meta name="citation_publication_date" content="2023-07-17" />
   <meta property="article:published_time" content="2023-07-17" />
-  <meta name="dc.modified" content="2023-07-17T18:38:02+00:00" />
-  <meta property="article:modified_time" content="2023-07-17T18:38:02+00:00" />
+  <meta name="dc.modified" content="2023-07-17T18:51:24+00:00" />
+  <meta property="article:modified_time" content="2023-07-17T18:51:24+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
   <meta name="dc.publisher" content="Manubot" />
   <meta name="citation_journal_title" content="Manubot" />
   <meta name="citation_technical_report_institution" content="Manubot" />
-  <meta name="citation_author" content="Marley Joseph" />
-  <meta name="citation_author" content="Jaren Bresnick" />
   <meta name="citation_author" content="Yunju Ha" />
-  <meta name="citation_author" content="Eric Zhou" />
+  <meta name="citation_author" content="Jaren Bresnick" />
   <meta name="citation_author" content="Olivia Johnson" />
+  <meta name="citation_author" content="Marley Joseph" />
+  <meta name="citation_author" content="Eric Zhou" />
   <meta name="citation_author" content="Anthony Gitter" />
   <meta name="citation_author_institution" content="Department of Biostatistics and Medical Informatics, University of Wisconsin-Madison, Madison, Wisconsin, USA" />
   <meta name="citation_author_institution" content="Morgridge Institute for Research, Madison, Wisconsin, USA" />
@@ -54,9 +54,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://gitter-lab.github.io/bds-srop-demo-manuscript/" />
   <meta name="citation_pdf_url" content="https://gitter-lab.github.io/bds-srop-demo-manuscript/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://gitter-lab.github.io/bds-srop-demo-manuscript/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://gitter-lab.github.io/bds-srop-demo-manuscript/v/18a967086aa72a9643fae43149e175bd28ab1a45/" />
-  <meta name="manubot_html_url_versioned" content="https://gitter-lab.github.io/bds-srop-demo-manuscript/v/18a967086aa72a9643fae43149e175bd28ab1a45/" />
-  <meta name="manubot_pdf_url_versioned" content="https://gitter-lab.github.io/bds-srop-demo-manuscript/v/18a967086aa72a9643fae43149e175bd28ab1a45/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://gitter-lab.github.io/bds-srop-demo-manuscript/v/8486f62e75e17d1ef815d13c41834b3e175f8062/" />
+  <meta name="manubot_html_url_versioned" content="https://gitter-lab.github.io/bds-srop-demo-manuscript/v/8486f62e75e17d1ef815d13c41834b3e175f8062/" />
+  <meta name="manubot_pdf_url_versioned" content="https://gitter-lab.github.io/bds-srop-demo-manuscript/v/8486f62e75e17d1ef815d13c41834b3e175f8062/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -78,9 +78,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://gitter-lab.github.io/bds-srop-demo-manuscript/v/18a967086aa72a9643fae43149e175bd28ab1a45/))
+([permalink](https://gitter-lab.github.io/bds-srop-demo-manuscript/v/8486f62e75e17d1ef815d13c41834b3e175f8062/))
 was automatically generated
-from [gitter-lab/bds-srop-demo-manuscript@18a9670](https://github.com/gitter-lab/bds-srop-demo-manuscript/tree/18a967086aa72a9643fae43149e175bd28ab1a45)
+from [gitter-lab/bds-srop-demo-manuscript@8486f62](https://github.com/gitter-lab/bds-srop-demo-manuscript/tree/8486f62e75e17d1ef815d13c41834b3e175f8062)
 on July 17, 2023.
 </em></small>
 
@@ -90,7 +90,7 @@ on July 17, 2023.
 
 
 
-+ **Marley Joseph**
++ **Yunju Ha**
   <br>
   <small>
   </small>
@@ -100,17 +100,17 @@ on July 17, 2023.
   <small>
   </small>
 
-+ **Yunju Ha**
++ **Olivia Johnson**
+  <br>
+  <small>
+  </small>
+
++ **Marley Joseph**
   <br>
   <small>
   </small>
 
 + **Eric Zhou**
-  <br>
-  <small>
-  </small>
-
-+ **Olivia Johnson**
   <br>
   <small>
   </small>
@@ -141,15 +141,37 @@ on July 17, 2023.
 
 
 ## Abstract {.page_break_before}
+This manuscript is a demonstration of writing with Manubot.
+It is not a real scientific manuscript and may be incomplete, broken, or abandoned.
 
 
+## Sections for each author
+Each author can write about some of the resources they used in their summer research.
+Add citations using the Manubot cite-by-identifier format.
+
+### Anthony
+My group worked with the Signaling Pathway Reconstruction Analysis Streamliner (SPRAS) this summer [@https://github.com/Reed-CompBio/spras].
+One algorithm that we typically use to introduce SPRAS is called PathLinker [@doi:10.1038/npjsba.2016.2], which is based on shortest paths in a graph.
+We also use an example cell signaling dataset to study how cells use phosphorylation as a way to communicate via chemical modifications [@pubmed:30257219].
+
+### Sarah
 
 
-This manuscript is a template (aka "rootstock") for [Manubot](https://manubot.org/ "Manubot"), a tool for writing scholarly manuscripts.
-Use this template as a starting point for your manuscript.
+### Jaren
 
-The rest of this document is a full list of formatting elements/features supported by Manubot.
-Compare the input (`.md` files in the `/content` directory) to the output you see below.
+
+### Yunju
+
+
+### Livvy
+
+
+### Marley
+
+
+### Eric
+
+
 
 ## Basic formatting
 
