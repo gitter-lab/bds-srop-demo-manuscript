@@ -1,14 +1,20 @@
 ---
-title: Manuscript Title
+title: BDS SROP Student Manuscript
 keywords:
 - markdown
 - publishing
 - manubot
+- demo
 lang: en-US
 date-meta: '2023-07-17'
 author-meta:
-- John Doe
-- Jane Roe
+- Marley Joseph
+- Jaren Bresnick
+- Yunju Ha
+- Eric Zhou
+- Olivia Johnson
+- Anthony Gitter
+- Sarah Bennett
 header-includes: |
   <!--
   Manubot generated metadata rendered from header-includes-template.html.
@@ -16,38 +22,41 @@ header-includes: |
   -->
   <meta name="dc.format" content="text/html" />
   <meta property="og:type" content="article" />
-  <meta name="dc.title" content="Manuscript Title" />
-  <meta name="citation_title" content="Manuscript Title" />
-  <meta property="og:title" content="Manuscript Title" />
-  <meta property="twitter:title" content="Manuscript Title" />
+  <meta name="dc.title" content="BDS SROP Student Manuscript" />
+  <meta name="citation_title" content="BDS SROP Student Manuscript" />
+  <meta property="og:title" content="BDS SROP Student Manuscript" />
+  <meta property="twitter:title" content="BDS SROP Student Manuscript" />
   <meta name="dc.date" content="2023-07-17" />
   <meta name="citation_publication_date" content="2023-07-17" />
   <meta property="article:published_time" content="2023-07-17" />
-  <meta name="dc.modified" content="2023-07-17T18:20:04+00:00" />
-  <meta property="article:modified_time" content="2023-07-17T18:20:04+00:00" />
+  <meta name="dc.modified" content="2023-07-17T18:38:02+00:00" />
+  <meta property="article:modified_time" content="2023-07-17T18:38:02+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
   <meta name="dc.publisher" content="Manubot" />
   <meta name="citation_journal_title" content="Manubot" />
   <meta name="citation_technical_report_institution" content="Manubot" />
-  <meta name="citation_author" content="John Doe" />
-  <meta name="citation_author_institution" content="Department of Something, University of Whatever" />
-  <meta name="citation_author_orcid" content="XXXX-XXXX-XXXX-XXXX" />
-  <meta name="twitter:creator" content="@johndoe" />
-  <meta name="citation_author" content="Jane Roe" />
-  <meta name="citation_author_institution" content="Department of Something, University of Whatever" />
-  <meta name="citation_author_institution" content="Department of Whatever, University of Something" />
-  <meta name="citation_author_orcid" content="XXXX-XXXX-XXXX-XXXX" />
+  <meta name="citation_author" content="Marley Joseph" />
+  <meta name="citation_author" content="Jaren Bresnick" />
+  <meta name="citation_author" content="Yunju Ha" />
+  <meta name="citation_author" content="Eric Zhou" />
+  <meta name="citation_author" content="Olivia Johnson" />
+  <meta name="citation_author" content="Anthony Gitter" />
+  <meta name="citation_author_institution" content="Department of Biostatistics and Medical Informatics, University of Wisconsin-Madison, Madison, Wisconsin, USA" />
+  <meta name="citation_author_institution" content="Morgridge Institute for Research, Madison, Wisconsin, USA" />
+  <meta name="citation_author_orcid" content="0000-0002-5324-9833" />
+  <meta name="twitter:creator" content="@anthonygitter" />
+  <meta name="citation_author" content="Sarah Bennett" />
   <link rel="canonical" href="https://gitter-lab.github.io/bds-srop-demo-manuscript/" />
   <meta property="og:url" content="https://gitter-lab.github.io/bds-srop-demo-manuscript/" />
   <meta property="twitter:url" content="https://gitter-lab.github.io/bds-srop-demo-manuscript/" />
   <meta name="citation_fulltext_html_url" content="https://gitter-lab.github.io/bds-srop-demo-manuscript/" />
   <meta name="citation_pdf_url" content="https://gitter-lab.github.io/bds-srop-demo-manuscript/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://gitter-lab.github.io/bds-srop-demo-manuscript/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://gitter-lab.github.io/bds-srop-demo-manuscript/v/72a96c90f2aab350de5e06f57587f654d5df1d6b/" />
-  <meta name="manubot_html_url_versioned" content="https://gitter-lab.github.io/bds-srop-demo-manuscript/v/72a96c90f2aab350de5e06f57587f654d5df1d6b/" />
-  <meta name="manubot_pdf_url_versioned" content="https://gitter-lab.github.io/bds-srop-demo-manuscript/v/72a96c90f2aab350de5e06f57587f654d5df1d6b/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://gitter-lab.github.io/bds-srop-demo-manuscript/v/18a967086aa72a9643fae43149e175bd28ab1a45/" />
+  <meta name="manubot_html_url_versioned" content="https://gitter-lab.github.io/bds-srop-demo-manuscript/v/18a967086aa72a9643fae43149e175bd28ab1a45/" />
+  <meta name="manubot_pdf_url_versioned" content="https://gitter-lab.github.io/bds-srop-demo-manuscript/v/18a967086aa72a9643fae43149e175bd28ab1a45/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -69,9 +78,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://gitter-lab.github.io/bds-srop-demo-manuscript/v/72a96c90f2aab350de5e06f57587f654d5df1d6b/))
+([permalink](https://gitter-lab.github.io/bds-srop-demo-manuscript/v/18a967086aa72a9643fae43149e175bd28ab1a45/))
 was automatically generated
-from [gitter-lab/bds-srop-demo-manuscript@72a96c9](https://github.com/gitter-lab/bds-srop-demo-manuscript/tree/72a96c90f2aab350de5e06f57587f654d5df1d6b)
+from [gitter-lab/bds-srop-demo-manuscript@18a9670](https://github.com/gitter-lab/bds-srop-demo-manuscript/tree/18a967086aa72a9643fae43149e175bd28ab1a45)
 on July 17, 2023.
 </em></small>
 
@@ -81,39 +90,52 @@ on July 17, 2023.
 
 
 
-+ **John Doe**
++ **Marley Joseph**
   <br>
-    ![ORCID icon](images/orcid.svg){.inline_icon width=16 height=16}
-    [XXXX-XXXX-XXXX-XXXX](https://orcid.org/XXXX-XXXX-XXXX-XXXX)
-    · ![GitHub icon](images/github.svg){.inline_icon width=16 height=16}
-    [johndoe](https://github.com/johndoe)
-    · ![Twitter icon](images/twitter.svg){.inline_icon width=16 height=16}
-    [johndoe](https://twitter.com/johndoe)
-    · ![Mastodon icon](images/mastodon.svg){.inline_icon width=16 height=16}
-    [\@johndoe@mastodon.social](https://mastodon.social/@johndoe)
-    <br>
   <small>
-     Department of Something, University of Whatever
-     · Funded by Grant XXXXXXXX
   </small>
 
-+ **Jane Roe**
-  ^[✉](#correspondence)^<br>
++ **Jaren Bresnick**
+  <br>
+  <small>
+  </small>
+
++ **Yunju Ha**
+  <br>
+  <small>
+  </small>
+
++ **Eric Zhou**
+  <br>
+  <small>
+  </small>
+
++ **Olivia Johnson**
+  <br>
+  <small>
+  </small>
+
++ **Anthony Gitter**
+  <br>
     ![ORCID icon](images/orcid.svg){.inline_icon width=16 height=16}
-    [XXXX-XXXX-XXXX-XXXX](https://orcid.org/XXXX-XXXX-XXXX-XXXX)
+    [0000-0002-5324-9833](https://orcid.org/0000-0002-5324-9833)
     · ![GitHub icon](images/github.svg){.inline_icon width=16 height=16}
-    [janeroe](https://github.com/janeroe)
+    [agitter](https://github.com/agitter)
+    · ![Twitter icon](images/twitter.svg){.inline_icon width=16 height=16}
+    [anthonygitter](https://twitter.com/anthonygitter)
     <br>
   <small>
-     Department of Something, University of Whatever; Department of Whatever, University of Something
+     Department of Biostatistics and Medical Informatics, University of Wisconsin-Madison, Madison, Wisconsin, USA; Morgridge Institute for Research, Madison, Wisconsin, USA
+  </small>
+
++ **Sarah Bennett**
+  <br>
+  <small>
   </small>
 
 
 ::: {#correspondence}
 ✉ — Correspondence possible via [GitHub Issues](https://github.com/gitter-lab/bds-srop-demo-manuscript/issues)
-or email to
-Jane Roe \<jane.roe@whatever.edu\>.
-
 
 :::
 
