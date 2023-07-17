@@ -1,30 +1,26 @@
 ---
-title: "Manuscript Title"
+title: "BDS SROP Student Manuscript"
 date: null  # Defaults to date generated, but can specify like '2022-10-31'.
 keywords:
   - markdown
   - publishing
   - manubot
+  - demo
 lang: en-US
+manubot-randomize-author-order: true # Set a random author order on each build
 authors:
-  - github: johndoe
-    name: John Doe
-    initials: JD
-    orcid: XXXX-XXXX-XXXX-XXXX
-    twitter: johndoe
-    mastodon: johndoe
-    mastodon-server: mastodon.social
-    email: john.doe@something.com
+  - name: Anthony Gitter
+    initials: AG
+    github: agitter
+    orcid: 0000-0002-5324-9833
+    twitter: anthonygitter
+    email: gitter@biostat.wisc.edu
     affiliations:
-      - Department of Something, University of Whatever
-    funders:
-      - Grant XXXXXXXX
-  - github: janeroe
-    name: Jane Roe
-    initials: JR
-    orcid: XXXX-XXXX-XXXX-XXXX
-    email: jane.roe@whatever.edu
-    affiliations:
-      - Department of Something, University of Whatever
-      - Department of Whatever, University of Something
-    corresponding: true
+      - Department of Biostatistics and Medical Informatics, University of Wisconsin-Madison, Madison, Wisconsin, USA
+      - Morgridge Institute for Research, Madison, Wisconsin, USA
+  - name: Sarah Bennett
+  - name: Jaren Bresnick
+  - name: Yunju Ha
+  - name: Olivia Johnson
+  - name: Marley Joseph
+  - name: Eric Zhou
