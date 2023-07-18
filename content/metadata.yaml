@@ -33,6 +33,13 @@ authors:
     affiliations:
       - University of Wisconsin-Madison, Madison, Wisconsin, USA
   - name: Olivia Johnson
+    initials: OJ
+    github: livj4711
+    orcid: 0000-0002-6177-1832
+    email: otjoh@iastate.edu
+    affiliations:
+      - Department of Biostatistics and Medical Informatics, University of Wisconsin-Madison, Madison, Wisconsin, US
+      - Iowa State University, Ames, Iowa, USA
   - name: Marley Joseph
     initials: MJ
     github: MarleyJoseph
