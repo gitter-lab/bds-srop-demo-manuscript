@@ -24,3 +24,11 @@ authors:
   - name: Olivia Johnson
   - name: Marley Joseph
   - name: Eric Zhou
+    initials: EZ
+    github: ezhou17
+    email: ezhou27@wisc.edu
+    affiliations:
+      - Carleton College, Northfield, Minnesota, USA
+      - University of Wisconsin-Madison, Madison, Wisconsin, USA
+      
+  
