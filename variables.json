@@ -10,15 +10,15 @@
     "lang": "en-US",
     "date-meta": "2023-07-18",
     "author-meta": [
+      "Marley Joseph",
       "Jaren Bresnick",
-      "Eric Zhou",
-      "Sarah Bennett",
-      "Olivia Johnson",
       "Anthony Gitter",
       "Yunju Ha",
-      "Marley Joseph"
+      "Eric Zhou",
+      "Sarah Bennett",
+      "Olivia Johnson"
     ],
-    "header-includes": "<!--\nManubot generated metadata rendered from header-includes-template.html.\nSuggest improvements at https://github.com/manubot/manubot/blob/main/manubot/process/header-includes-template.html\n-->\n<meta name=\"dc.format\" content=\"text/html\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta name=\"dc.title\" content=\"BDS SROP Student Manuscript\" />\n<meta name=\"citation_title\" content=\"BDS SROP Student Manuscript\" />\n<meta property=\"og:title\" content=\"BDS SROP Student Manuscript\" />\n<meta property=\"twitter:title\" content=\"BDS SROP Student Manuscript\" />\n<meta name=\"dc.date\" content=\"2023-07-18\" />\n<meta name=\"citation_publication_date\" content=\"2023-07-18\" />\n<meta property=\"article:published_time\" content=\"2023-07-18\" />\n<meta name=\"dc.modified\" content=\"2023-07-18T19:55:01+00:00\" />\n<meta property=\"article:modified_time\" content=\"2023-07-18T19:55:01+00:00\" />\n<meta name=\"dc.language\" content=\"en-US\" />\n<meta name=\"citation_language\" content=\"en-US\" />\n<meta name=\"dc.relation.ispartof\" content=\"Manubot\" />\n<meta name=\"dc.publisher\" content=\"Manubot\" />\n<meta name=\"citation_journal_title\" content=\"Manubot\" />\n<meta name=\"citation_technical_report_institution\" content=\"Manubot\" />\n<meta name=\"citation_author\" content=\"Jaren Bresnick\" />\n<meta name=\"citation_author\" content=\"Eric Zhou\" />\n<meta name=\"citation_author_institution\" content=\"Carleton College, Northfield, Minnesota, USA\" />\n<meta name=\"citation_author_institution\" content=\"University of Wisconsin-Madison, Madison, Wisconsin, USA\" />\n<meta name=\"citation_author\" content=\"Sarah Bennett\" />\n<meta name=\"citation_author_institution\" content=\"University of Texas at Austin\" />\n<meta name=\"citation_author_institution\" content=\"University of Wisconsin-Madison\" />\n<meta name=\"citation_author\" content=\"Olivia Johnson\" />\n<meta name=\"citation_author\" content=\"Anthony Gitter\" />\n<meta name=\"citation_author_institution\" content=\"Department of Biostatistics and Medical Informatics, University of Wisconsin-Madison, Madison, Wisconsin, USA\" />\n<meta name=\"citation_author_institution\" content=\"Morgridge Institute for Research, Madison, Wisconsin, USA\" />\n<meta name=\"citation_author_orcid\" content=\"0000-0002-5324-9833\" />\n<meta name=\"twitter:creator\" content=\"@anthonygitter\" />\n<meta name=\"citation_author\" content=\"Yunju Ha\" />\n<meta name=\"citation_author_institution\" content=\"University of Wisconsin-Madison, Madison, Wisconsin, USA\" />\n<meta name=\"citation_author\" content=\"Marley Joseph\" />\n<meta name=\"citation_author_institution\" content=\"Department of Biostatistics and Medical Informatics, University of Wisconsin-Madison, Madison, Wisconsin, USA\" />\n<meta name=\"citation_author_institution\" content=\"University of Maryland, College Park, Maryland, USA\" />\n<link rel=\"canonical\" href=\"https://gitter-lab.github.io/bds-srop-demo-manuscript/\" />\n<meta property=\"og:url\" content=\"https://gitter-lab.github.io/bds-srop-demo-manuscript/\" />\n<meta property=\"twitter:url\" content=\"https://gitter-lab.github.io/bds-srop-demo-manuscript/\" />\n<meta name=\"citation_fulltext_html_url\" content=\"https://gitter-lab.github.io/bds-srop-demo-manuscript/\" />\n<meta name=\"citation_pdf_url\" content=\"https://gitter-lab.github.io/bds-srop-demo-manuscript/manuscript.pdf\" />\n<link rel=\"alternate\" type=\"application/pdf\" href=\"https://gitter-lab.github.io/bds-srop-demo-manuscript/manuscript.pdf\" />\n<link rel=\"alternate\" type=\"text/html\" href=\"https://gitter-lab.github.io/bds-srop-demo-manuscript/v/b6255f75d9e78bfef63ec0a8ac4f4080930cca4d/\" />\n<meta name=\"manubot_html_url_versioned\" content=\"https://gitter-lab.github.io/bds-srop-demo-manuscript/v/b6255f75d9e78bfef63ec0a8ac4f4080930cca4d/\" />\n<meta name=\"manubot_pdf_url_versioned\" content=\"https://gitter-lab.github.io/bds-srop-demo-manuscript/v/b6255f75d9e78bfef63ec0a8ac4f4080930cca4d/manuscript.pdf\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"twitter:card\" content=\"summary_large_image\" />\n<link rel=\"icon\" type=\"image/png\" sizes=\"192x192\" href=\"https://manubot.org/favicon-192x192.png\" />\n<link rel=\"mask-icon\" href=\"https://manubot.org/safari-pinned-tab.svg\" color=\"#ad1457\" />\n<meta name=\"theme-color\" content=\"#ad1457\" />\n<!-- end Manubot generated metadata -->\n",
+    "header-includes": "<!--\nManubot generated metadata rendered from header-includes-template.html.\nSuggest improvements at https://github.com/manubot/manubot/blob/main/manubot/process/header-includes-template.html\n-->\n<meta name=\"dc.format\" content=\"text/html\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta name=\"dc.title\" content=\"BDS SROP Student Manuscript\" />\n<meta name=\"citation_title\" content=\"BDS SROP Student Manuscript\" />\n<meta property=\"og:title\" content=\"BDS SROP Student Manuscript\" />\n<meta property=\"twitter:title\" content=\"BDS SROP Student Manuscript\" />\n<meta name=\"dc.date\" content=\"2023-07-18\" />\n<meta name=\"citation_publication_date\" content=\"2023-07-18\" />\n<meta property=\"article:published_time\" content=\"2023-07-18\" />\n<meta name=\"dc.modified\" content=\"2023-07-18T19:55:33+00:00\" />\n<meta property=\"article:modified_time\" content=\"2023-07-18T19:55:33+00:00\" />\n<meta name=\"dc.language\" content=\"en-US\" />\n<meta name=\"citation_language\" content=\"en-US\" />\n<meta name=\"dc.relation.ispartof\" content=\"Manubot\" />\n<meta name=\"dc.publisher\" content=\"Manubot\" />\n<meta name=\"citation_journal_title\" content=\"Manubot\" />\n<meta name=\"citation_technical_report_institution\" content=\"Manubot\" />\n<meta name=\"citation_author\" content=\"Marley Joseph\" />\n<meta name=\"citation_author_institution\" content=\"Department of Biostatistics and Medical Informatics, University of Wisconsin-Madison, Madison, Wisconsin, USA\" />\n<meta name=\"citation_author_institution\" content=\"University of Maryland, College Park, Maryland, USA\" />\n<meta name=\"citation_author\" content=\"Jaren Bresnick\" />\n<meta name=\"citation_author\" content=\"Anthony Gitter\" />\n<meta name=\"citation_author_institution\" content=\"Department of Biostatistics and Medical Informatics, University of Wisconsin-Madison, Madison, Wisconsin, USA\" />\n<meta name=\"citation_author_institution\" content=\"Morgridge Institute for Research, Madison, Wisconsin, USA\" />\n<meta name=\"citation_author_orcid\" content=\"0000-0002-5324-9833\" />\n<meta name=\"twitter:creator\" content=\"@anthonygitter\" />\n<meta name=\"citation_author\" content=\"Yunju Ha\" />\n<meta name=\"citation_author_institution\" content=\"University of Wisconsin-Madison, Madison, Wisconsin, USA\" />\n<meta name=\"citation_author\" content=\"Eric Zhou\" />\n<meta name=\"citation_author_institution\" content=\"Carleton College, Northfield, Minnesota, USA\" />\n<meta name=\"citation_author_institution\" content=\"University of Wisconsin-Madison, Madison, Wisconsin, USA\" />\n<meta name=\"citation_author\" content=\"Sarah Bennett\" />\n<meta name=\"citation_author_institution\" content=\"University of Texas at Austin\" />\n<meta name=\"citation_author_institution\" content=\"University of Wisconsin-Madison\" />\n<meta name=\"citation_author\" content=\"Olivia Johnson\" />\n<meta name=\"citation_author_institution\" content=\"Department of Biostatistics and Medical Informatics, University of Wisconsin-Madison, Madison, Wisconsin, US\" />\n<meta name=\"citation_author_institution\" content=\"Iowa State University, Ames, Iowa, USA\" />\n<meta name=\"citation_author_orcid\" content=\"0000-0002-6177-1832\" />\n<link rel=\"canonical\" href=\"https://gitter-lab.github.io/bds-srop-demo-manuscript/\" />\n<meta property=\"og:url\" content=\"https://gitter-lab.github.io/bds-srop-demo-manuscript/\" />\n<meta property=\"twitter:url\" content=\"https://gitter-lab.github.io/bds-srop-demo-manuscript/\" />\n<meta name=\"citation_fulltext_html_url\" content=\"https://gitter-lab.github.io/bds-srop-demo-manuscript/\" />\n<meta name=\"citation_pdf_url\" content=\"https://gitter-lab.github.io/bds-srop-demo-manuscript/manuscript.pdf\" />\n<link rel=\"alternate\" type=\"application/pdf\" href=\"https://gitter-lab.github.io/bds-srop-demo-manuscript/manuscript.pdf\" />\n<link rel=\"alternate\" type=\"text/html\" href=\"https://gitter-lab.github.io/bds-srop-demo-manuscript/v/cb3c4c809a6670728096277ceca7aef2415e23a2/\" />\n<meta name=\"manubot_html_url_versioned\" content=\"https://gitter-lab.github.io/bds-srop-demo-manuscript/v/cb3c4c809a6670728096277ceca7aef2415e23a2/\" />\n<meta name=\"manubot_pdf_url_versioned\" content=\"https://gitter-lab.github.io/bds-srop-demo-manuscript/v/cb3c4c809a6670728096277ceca7aef2415e23a2/manuscript.pdf\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"twitter:card\" content=\"summary_large_image\" />\n<link rel=\"icon\" type=\"image/png\" sizes=\"192x192\" href=\"https://manubot.org/favicon-192x192.png\" />\n<link rel=\"mask-icon\" href=\"https://manubot.org/safari-pinned-tab.svg\" color=\"#ad1457\" />\n<meta name=\"theme-color\" content=\"#ad1457\" />\n<!-- end Manubot generated metadata -->\n",
     "bibliography": [
       "content/manual-references.json"
     ],
@@ -30,23 +30,18 @@
   "manubot": {
     "date": "2023-07-18",
     "date_long": "July 18, 2023",
-    "generated": "2023-07-18T19:55:01+00:00",
+    "generated": "2023-07-18T19:55:33+00:00",
     "generated_date_long": "July 18, 2023",
     "randomize_author_order": true,
-    "randomize_author_order_seed": "b6255f75d9e78bfef63ec0a8ac4f4080930cca4d",
+    "randomize_author_order_seed": "cb3c4c809a6670728096277ceca7aef2415e23a2",
     "authors": [
       {
-        "name": "Jaren Bresnick",
-        "affiliation_numbers": []
-      },
-      {
-        "name": "Eric Zhou",
-        "initials": "EZ",
-        "github": "ezhou17",
-        "email": "ezhou27@wisc.edu",
+        "name": "Marley Joseph",
+        "initials": "MJ",
+        "github": "MarleyJoseph",
         "affiliations": [
-          "Carleton College, Northfield, Minnesota, USA",
-          "University of Wisconsin-Madison, Madison, Wisconsin, USA"
+          "Department of Biostatistics and Medical Informatics, University of Wisconsin-Madison, Madison, Wisconsin, USA",
+          "University of Maryland, College Park, Maryland, USA"
         ],
         "affiliation_numbers": [
           1,
@@ -54,21 +49,7 @@
         ]
       },
       {
-        "name": "Sarah Bennett",
-        "initials": "SB",
-        "github": "seb91103",
-        "email": "sarahbennett@utexas.edu",
-        "affiliations": [
-          "University of Texas at Austin",
-          "University of Wisconsin-Madison"
-        ],
-        "affiliation_numbers": [
-          3,
-          4
-        ]
-      },
-      {
-        "name": "Olivia Johnson",
+        "name": "Jaren Bresnick",
         "affiliation_numbers": []
       },
       {
@@ -83,8 +64,8 @@
           "Morgridge Institute for Research, Madison, Wisconsin, USA"
         ],
         "affiliation_numbers": [
-          5,
-          6
+          1,
+          3
         ]
       },
       {
@@ -96,51 +77,89 @@
           "University of Wisconsin-Madison, Madison, Wisconsin, USA"
         ],
         "affiliation_numbers": [
-          2
+          4
         ]
       },
       {
-        "name": "Marley Joseph",
-        "initials": "MJ",
-        "github": "MarleyJoseph",
+        "name": "Eric Zhou",
+        "initials": "EZ",
+        "github": "ezhou17",
+        "email": "ezhou27@wisc.edu",
         "affiliations": [
-          "Department of Biostatistics and Medical Informatics, University of Wisconsin-Madison, Madison, Wisconsin, USA",
-          "University of Maryland, College Park, Maryland, USA"
+          "Carleton College, Northfield, Minnesota, USA",
+          "University of Wisconsin-Madison, Madison, Wisconsin, USA"
         ],
         "affiliation_numbers": [
-          5,
+          4,
+          5
+        ]
+      },
+      {
+        "name": "Sarah Bennett",
+        "initials": "SB",
+        "github": "seb91103",
+        "email": "sarahbennett@utexas.edu",
+        "affiliations": [
+          "University of Texas at Austin",
+          "University of Wisconsin-Madison"
+        ],
+        "affiliation_numbers": [
+          6,
           7
+        ]
+      },
+      {
+        "name": "Olivia Johnson",
+        "initials": "OJ",
+        "github": "livj4711",
+        "orcid": "0000-0002-6177-1832",
+        "email": "otjoh@iastate.edu",
+        "affiliations": [
+          "Department of Biostatistics and Medical Informatics, University of Wisconsin-Madison, Madison, Wisconsin, US",
+          "Iowa State University, Ames, Iowa, USA"
+        ],
+        "affiliation_numbers": [
+          8,
+          9
         ]
       }
     ],
     "affiliations": [
       {
-        "affiliation": "Carleton College, Northfield, Minnesota, USA",
+        "affiliation": "Department of Biostatistics and Medical Informatics, University of Wisconsin-Madison, Madison, Wisconsin, USA",
         "affiliation_number": 1
       },
       {
-        "affiliation": "University of Wisconsin-Madison, Madison, Wisconsin, USA",
+        "affiliation": "University of Maryland, College Park, Maryland, USA",
         "affiliation_number": 2
       },
       {
-        "affiliation": "University of Texas at Austin",
+        "affiliation": "Morgridge Institute for Research, Madison, Wisconsin, USA",
         "affiliation_number": 3
       },
       {
-        "affiliation": "University of Wisconsin-Madison",
+        "affiliation": "University of Wisconsin-Madison, Madison, Wisconsin, USA",
         "affiliation_number": 4
       },
       {
-        "affiliation": "Department of Biostatistics and Medical Informatics, University of Wisconsin-Madison, Madison, Wisconsin, USA",
+        "affiliation": "Carleton College, Northfield, Minnesota, USA",
         "affiliation_number": 5
       },
       {
-        "affiliation": "Morgridge Institute for Research, Madison, Wisconsin, USA",
+        "affiliation": "University of Texas at Austin",
         "affiliation_number": 6
       },
       {
-        "affiliation": "University of Maryland, College Park, Maryland, USA",
+        "affiliation": "University of Wisconsin-Madison",
         "affiliation_number": 7
+      },
+      {
+        "affiliation": "Department of Biostatistics and Medical Informatics, University of Wisconsin-Madison, Madison, Wisconsin, US",
+        "affiliation_number": 8
+      },
+      {
+        "affiliation": "Iowa State University, Ames, Iowa, USA",
+        "affiliation_number": 9
       }
     ],
     "ci_source": {
@@ -148,15 +167,15 @@
       "repo_slug": "gitter-lab/bds-srop-demo-manuscript",
       "repo_owner": "gitter-lab",
       "repo_name": "bds-srop-demo-manuscript",
-      "commit": "b6255f75d9e78bfef63ec0a8ac4f4080930cca4d",
-      "triggering_commit": "b6255f75d9e78bfef63ec0a8ac4f4080930cca4d",
-      "build_url": "https://github.com/gitter-lab/bds-srop-demo-manuscript/commit/b6255f75d9e78bfef63ec0a8ac4f4080930cca4d/checks",
-      "job_url": "https://github.com/gitter-lab/bds-srop-demo-manuscript/actions/runs/5591765189"
+      "commit": "cb3c4c809a6670728096277ceca7aef2415e23a2",
+      "triggering_commit": "cb3c4c809a6670728096277ceca7aef2415e23a2",
+      "build_url": "https://github.com/gitter-lab/bds-srop-demo-manuscript/commit/cb3c4c809a6670728096277ceca7aef2415e23a2/checks",
+      "job_url": "https://github.com/gitter-lab/bds-srop-demo-manuscript/actions/runs/5591769025"
     },
     "html_url": "https://gitter-lab.github.io/bds-srop-demo-manuscript/",
     "pdf_url": "https://gitter-lab.github.io/bds-srop-demo-manuscript/manuscript.pdf",
-    "html_url_versioned": "https://gitter-lab.github.io/bds-srop-demo-manuscript/v/b6255f75d9e78bfef63ec0a8ac4f4080930cca4d/",
-    "pdf_url_versioned": "https://gitter-lab.github.io/bds-srop-demo-manuscript/v/b6255f75d9e78bfef63ec0a8ac4f4080930cca4d/manuscript.pdf",
+    "html_url_versioned": "https://gitter-lab.github.io/bds-srop-demo-manuscript/v/cb3c4c809a6670728096277ceca7aef2415e23a2/",
+    "pdf_url_versioned": "https://gitter-lab.github.io/bds-srop-demo-manuscript/v/cb3c4c809a6670728096277ceca7aef2415e23a2/manuscript.pdf",
     "manubot_version": "0.5.5",
     "rootstock_commit": "72a96c90f2aab350de5e06f57587f654d5df1d6b",
     "manuscript_stats": {
