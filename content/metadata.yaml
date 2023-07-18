@@ -19,6 +19,12 @@ authors:
       - Department of Biostatistics and Medical Informatics, University of Wisconsin-Madison, Madison, Wisconsin, USA
       - Morgridge Institute for Research, Madison, Wisconsin, USA
   - name: Sarah Bennett
+    initials: SB
+    github: seb91103
+    email: sarahbennett@utexas.edu
+    affiliations:
+      - University of Texas at Austin
+      - University of Wisconsin-Madison
   - name: Jaren Bresnick
   - name: Yunju Ha
   - name: Olivia Johnson
