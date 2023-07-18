@@ -22,5 +22,12 @@ authors:
   - name: Jaren Bresnick
   - name: Yunju Ha
   - name: Olivia Johnson
+    initials: OJ
+    github: livj4711
+    orcid: 0000-0002-6177-1832
+    email: otjoh@iastate.edu
+    affiliations:
+      - Department of Biostatistics and Medical Informatics, University of Wisconsin-Madison, Madison, Wisconsin, US
+      - Iowa State University, Ames, Iowa, USA
   - name: Marley Joseph
   - name: Eric Zhou
