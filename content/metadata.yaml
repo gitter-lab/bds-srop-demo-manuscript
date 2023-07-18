@@ -23,4 +23,9 @@ authors:
   - name: Yunju Ha
   - name: Olivia Johnson
   - name: Marley Joseph
+    initials: MJ
+    github: MarleyJoseph
+    affiliations:
+      - Department of Biostatistics and Medical Informatics, University of Wisconsin-Madison, Madison, Wisconsin, USA
+      - University of Maryland, College Park, Maryland, USA
   - name: Eric Zhou
