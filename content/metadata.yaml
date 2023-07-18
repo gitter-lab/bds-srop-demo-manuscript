@@ -21,11 +21,11 @@ authors:
   - name: Sarah Bennett
   - name: Jaren Bresnick
   - name: Yunju Ha
-      initials: YH
-      github: hayunju898
-      email: yha28@.wisc.edu
-      affiliations:
-        - University of Wisconsin-Madison, Madison, Wisconsin, USA
+    initials: YH
+    github: hayunju898
+    email: yha28@.wisc.edu
+    affiliations:
+      - University of Wisconsin-Madison, Madison, Wisconsin, USA
   - name: Olivia Johnson
   - name: Marley Joseph
   - name: Eric Zhou
