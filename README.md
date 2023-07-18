@@ -1,7 +1,7 @@
 # Output directory containing the formatted manuscript
 
 The [`gh-pages`](https://github.com/gitter-lab/bds-srop-demo-manuscript/tree/gh-pages) branch hosts the contents of this directory at <https://gitter-lab.github.io/bds-srop-demo-manuscript/>.
-The permalink for this webpage version is <https://gitter-lab.github.io/bds-srop-demo-manuscript/v/86979503954c793ddd54ddfe84ec3112728a051a/>.
+The permalink for this webpage version is <https://gitter-lab.github.io/bds-srop-demo-manuscript/v/36c89c56f589042b7e0bf244e4b71334b54a44bf/>.
 To redirect to the permalink for the latest manuscript version at anytime, use the link <https://gitter-lab.github.io/bds-srop-demo-manuscript/v/freeze/>.
 
 ## Files
@@ -35,4 +35,4 @@ Verifying timestamps with the `ots verify` command requires running a local bitc
 ## Source
 
 The manuscripts in this directory were built from
-[`86979503954c793ddd54ddfe84ec3112728a051a`](https://github.com/gitter-lab/bds-srop-demo-manuscript/commit/86979503954c793ddd54ddfe84ec3112728a051a).
+[`36c89c56f589042b7e0bf244e4b71334b54a44bf`](https://github.com/gitter-lab/bds-srop-demo-manuscript/commit/36c89c56f589042b7e0bf244e4b71334b54a44bf).
