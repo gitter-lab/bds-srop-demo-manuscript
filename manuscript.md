@@ -6,7 +6,7 @@ keywords:
 - manubot
 - demo
 lang: en-US
-date-meta: '2023-07-18'
+date-meta: '2023-07-24'
 author-meta:
 - Eric Zhou
 - Sarah Bennett
@@ -26,11 +26,11 @@ header-includes: |
   <meta name="citation_title" content="BDS SROP Student Manuscript" />
   <meta property="og:title" content="BDS SROP Student Manuscript" />
   <meta property="twitter:title" content="BDS SROP Student Manuscript" />
-  <meta name="dc.date" content="2023-07-18" />
-  <meta name="citation_publication_date" content="2023-07-18" />
-  <meta property="article:published_time" content="2023-07-18" />
-  <meta name="dc.modified" content="2023-07-18T19:56:57+00:00" />
-  <meta property="article:modified_time" content="2023-07-18T19:56:57+00:00" />
+  <meta name="dc.date" content="2023-07-24" />
+  <meta name="citation_publication_date" content="2023-07-24" />
+  <meta property="article:published_time" content="2023-07-24" />
+  <meta name="dc.modified" content="2023-07-24T21:29:20+00:00" />
+  <meta property="article:modified_time" content="2023-07-24T21:29:20+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -91,7 +91,7 @@ This manuscript
 ([permalink](https://gitter-lab.github.io/bds-srop-demo-manuscript/v/88899f5c8f926fe3bdf959624032a50a5746d83b/))
 was automatically generated
 from [gitter-lab/bds-srop-demo-manuscript@88899f5](https://github.com/gitter-lab/bds-srop-demo-manuscript/tree/88899f5c8f926fe3bdf959624032a50a5746d83b)
-on July 18, 2023.
+on July 24, 2023.
 </em></small>
 
 
